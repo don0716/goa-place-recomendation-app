@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&family=Indie+Flower&family=Roboto+Mono&family=Satisfy&family=Shadows+Into+Light&display=swap");
+
+.App {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  border-radius: 1rem;
+}
+
+body {
+  background-color: #fef3c7;
+}
+
+h1 {
+  font-size: 5vh;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 3vh;
+}
+
+div {
+  font-size: 3vh;
+}
+
+button {
+  cursor: pointer;
+  border-width: 0.1rem;
+  background-color: #f0e1a4ee;
+  font-family: "Roboto Mono";
+  font-size: 2vh;
+  padding: 0.3rem;
+  border-radius: 1rem;
+}
